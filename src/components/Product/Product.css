@@ -1,0 +1,17 @@
+.product {
+  display: flex;
+  margin-left: 50px;
+}
+.product-title {
+  color: blue;
+}
+.item-card {
+  text-align: left;
+}
+.cart-btn {
+  background-color: lightgreen;
+  width: 150px;
+  font-size: 25px;
+  border: 1px solid lightsteelblue;
+  cursor: pointer;
+}
